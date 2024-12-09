@@ -1,0 +1,3 @@
+DEFAULT = {
+      'C0114': true,  # Require docstrings
+}
